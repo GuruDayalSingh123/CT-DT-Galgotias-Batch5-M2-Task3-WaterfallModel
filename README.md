@@ -79,3 +79,7 @@
 
 The Waterfall Model provides a structured and sequential approach to developing the AI Study Assistant Mobile App. Each phase is completed before moving to the next, ensuring clear documentation, systematic development, thorough testing, and reliable deployment, resulting in a high-quality educational application.
 
+
+
+LUCID CHART SHAREABLE LINK 
+https://lucid.app/lucidchart/533858e1-20c3-4314-b55c-1e8135c54034/edit?viewport_loc=-537%2C488%2C3227%2C1462%2C0_0&invitationId=inv_6c5169bb-7749-44f3-b34f-5717c10ee273
